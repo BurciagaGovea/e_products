@@ -15,8 +15,6 @@ pids/
 *.pid
 *.pid.lock
 
-# Special files
-drive_storage.json
 
 # System files
 .DS_Store

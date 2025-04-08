@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "drive-storage-e-commerce",
+    "private_key_id": "87a89380a0ee619d0513d225a569c2088c323af7",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6tsBACNMEAlpJ\ntLDUz6E9pZC9u8YOqJlHvAgPPxUvm0YLHtRF7qSL8TbJE2LuIlqFbgk/fc8xPOCy\nHdUvLSaRYaNkBwAQuZ9bHNsUcNzw3fANUCCouZysQ3u0SEwOOTFZuDYL//GZaPQf\nct8uMGHJQhl6uSl3wX8Cn5fcOsFgVuao4nBWM1+j9EuQoURoVsttffyL/1xKDKqi\nO6J8l98I2sG3pz+WE0fDRh934kxDABCWQ4ap+DTU95ume5qCOog3tNaYvE8kNbdw\nFT6fmnAd3G0yhhvIn3XY9uEcVosaMtrIFUBPKlzeVZdvr2YjczdLs6sQB7tEZNcy\nxqDQ0z0/AgMBAAECggEAUlqqKHRb8rBA97KZrnwYQBMnaPCKNsv5s9DFc0gdRZ7E\nwcHq2h+c91bBFeaVo7iGWcUDkjwhJ7QU3atX7ROKp+Q7h7KovjfJiIwNO5JeeWVC\n7PRTO2iHKNopFYcv+LQURuEAAcH14/cNelOWCg7wCq+7gkxqdHZl2ZfgCRTnV2Cr\n4cfPqQ+kV63XaUtDVgQkZciu4wURPpcKNFsPSlGIgLm3DGbGrO5hKcO64Dx6uzoR\nAfR0g46hhcCuIIlSP0VX8NFtskHf5OQJ1mxZTTMsMKCNaT2+NyXK4yW9M36eiDIs\nLOaNCWTSjTDkA14XB8ibEzgfc3XYol57vojEeULcWQKBgQDpAuCO85hLlR2RsQrv\nqmHdmjTIg9QcpqEHjxvmO8R6lsSYUXu3bf8vXdG+urooHwys/EbKzB7cF0YVkPK+\ng6DecLWISrYHz/6Si3HlVlkjvSHXcMyG8FNM++k/HTLaQB3DK8pMpl1MoWT74xJw\nItAQbn7p5fsASpxllLNIRJEwKQKBgQDNIoytxK9R5cVvBALQKuV1RZQBT53CtBJo\nptQpAxq9L7HQlrUqGRxzQk9ZYBR+fk2InHMXjdmn6VbR+9bHD+5QDwwtmzSFBd2g\n792zK83glAjlItpwJoTvn1MoxZAUtNzW08QAo3dpaQ/JzFUHIaJTNDK73PV1xHs0\nON4UoB6PJwKBgQDeZCabiZdznBCquwUrFb1uWf3C2z+ZUNgkdMw2BBlUv41Hq42e\n1tdWB/9mQKXoISph+C5A5G0XtwbnEn78onjplT1NpbDy5+ubRoggUTemyp8AFuK+\nb6WxtkU6Pc4JTGSboLHmUmp99xSA7Iruh+t5o1xyNVRJROzcbv5mHTtNcQKBgHAT\nNkUiNp9KKCpVSKwvI5qE3y4wL4NXGs+uhi+6EHvYeQ/7pxNPEOowCmZMRiYuH3JJ\n99+gkpBYviSPsXKk05FOB1tLdtBOuh3Zr4jan+rZNlrqReoMQYkhxS97cRK/FgER\nRf8LUIx46DVavAHfcG6BEE7vk/Q52w5XG46tRMT1AoGAJ4GYSE/8QkYqywiEriQt\ngF2KgtbbC7z6bcnmPALaH62yc9cIHjdnJLcLTfoeng/0D2VGEjnV3nDTOzyjuoG6\nbM6MQBwc/MtafEMew5gY6lgrkJfcv5lFiuNiruyhmT7aH6hjkg073OdCDTrCGyQy\nzuDrHRSIkp/PAej/V5bUZh4=\n-----END PRIVATE KEY-----\n",
+    "client_email": "e-commerce@drive-storage-e-commerce.iam.gserviceaccount.com",
+    "client_id": "101834139672136517487",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/e-commerce%40drive-storage-e-commerce.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+   }
+   
